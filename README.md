@@ -1,8 +1,8 @@
 # openCV-tesseract-faceDetection
 Fusion of openCV, Pillow and Tesseract.
 
-1.You were given zipped files and extract them. Then search for specific string and detect faces on the page where string was found and handle exception too.
-Now nicely display faces detected in a contact_sheet prepared using pillow.\n
+You were given zipped files and extract them. Then search for specific string and detect faces on the page where string was found and handle exception too.
+Now nicely display faces detected in a contact_sheet prepared using pillow.'\n'
 It was fun doing this.\n
 You can download zipped files from link given below:\n
 images.zip
