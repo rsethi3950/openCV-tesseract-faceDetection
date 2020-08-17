@@ -9,5 +9,6 @@ You can download zipped files from link given below:
 
 images.zip
 https://drive.google.com/file/d/1TJ9SluANsh-zie05YBaNdhr68ygZeiBZ/view
+
 small_img.zip
 https://drive.google.com/file/d/1vrn9clCj2TbmHkJZYzgTQPS64nGyztS5/view
