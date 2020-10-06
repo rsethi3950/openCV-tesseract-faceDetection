@@ -1,8 +1,8 @@
 # openCV-tesseract-faceDetection
 Fusion of openCV, Pillow and Tesseract.
 
-You were given zipped files and extract them. Then search for specific string and detect faces on the page where string was found and handle exception too.
-Now nicely display faces detected in a contact_sheet prepared using pillow.
+Extract the given zipped files containing newspaper clippings. Then search for specific string and detect faces on the page where string was found using openCV and handle exception too.
+Now nicely display faces detected in a contact_sheet prepared using pillow(python Imaging Library).
 It was fun doing this.
 
 You can download zipped files from link given below:
